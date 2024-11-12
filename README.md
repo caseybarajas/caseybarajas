@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Casey 👋
+Software developer with a passion for building elegant solutions. When I'm not coding, you'll find me making music or planning my future jazz lounge. 🎷
 
-<!--
-**caseybarajas33/caseybarajas33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Currently Working On
+**Puppy Space Cowboys** - An AI-powered game where you play as a space-faring dog seeking revenge in the aftermath of the Cat v. Dog War. Features include:
+- Procedurally generated planets based on game state
+- Planet-based missions with stealth mechanics
+- AI-driven enemy encounters and NPC interactions
+  
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+## 🎵 Listen to my Music
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7xLuS4SFU1pSAi6RxXgtWE?si=412634ea0c8e4471)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=caseybarajas33&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
