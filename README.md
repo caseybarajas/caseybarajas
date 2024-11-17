@@ -1,5 +1,4 @@
 # Hey, I'm Casey 👋
-Software developer with a passion for building elegant solutions. When I'm not coding, you'll find me making music or planning my future jazz lounge. 🎷
 
 ## 🚀 Currently Working On
 **Puppy Space Cowboys** - An AI-powered game where you play as a space-faring dog seeking revenge in the aftermath of the Cat v. Dog War. Features include:
