@@ -12,7 +12,7 @@
 - Generate unique musical compositions using your own MIDI files.
 - Utilizes LSTM (Long Short-Term Memory) networks to learn and generate musical patterns.
 - Save and load trained models for future use.
-- Export generated compositions as MIDI files.
+- Export generated compositions as MIDI files (soon mp3).
 
 <h2>🛠️ Tech Stack</h2>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
