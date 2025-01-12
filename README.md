@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 ## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=caseybarajas33&show_icons=true&theme=radical" alt="Casey's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caseybarajas33&theme=radical" alt="Casey's GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas33&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caseybarajas&show_icons=true&theme=radical" alt="Casey's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caseybarajas&theme=radical" alt="Casey's GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas&layout=compact&theme=radical" alt="Top Langs" />
