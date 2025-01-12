@@ -1,28 +1,56 @@
-<p align="center">
-  <img src="/img/welcome.png">
-</p>
+# Hi, I'm Casey 👋
 
-## 🚀 Currently Working On
-**Puppy Space Cowboys** - An AI-powered game where you play as a space-faring dog seeking revenge in the aftermath of the Cat v. Dog War. Features include:
-- Procedurally generated planets based on game state
-- Planet-based missions with stealth mechanics
-- AI-driven enemy encounters and NPC interactions
+<div align="center">
+  <img src="/img/welcome.png" alt="Casey Barajas" width="100%">
 
-**Melodia** - A Python-based tool for generating musical compositions using algorithmic techniques. It leverages machine learning and deep learning to create unique and creative musical pieces. Dive into the fusion of code and music!
-- Generate unique musical compositions using your own MIDI files.
-- Utilizes LSTM (Long Short-Term Memory) networks to learn and generate musical patterns.
-- Save and load trained models for future use.
-- Export generated compositions as MIDI files (soon mp3).
+  [![Website](https://img.shields.io/badge/Website-caseybarajas.com-blue?style=flat-square)](https://caseybarajas.com)
+  [![Open Source](https://img.shields.io/badge/OSS-Contributions-green?style=flat-square)](https://github.com/caseybarajas-oss)
+</div>
 
-<h2>🛠️ Tech Stack</h2>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br>
 
-## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=caseybarajas&show_icons=true&theme=radical" alt="Casey's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caseybarajas&theme=radical" alt="Casey's GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas&layout=compact&theme=radical" alt="Top Langs" />
+<div align="center">
+  <!-- GitHub Stats - using modern flat theme -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caseybarajas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6&cache_seconds=1800" alt="Top Languages"/>
+</div>
+
+<br>
+
+## What I Do
+
+```typescript
+const casey = {
+  code: ['TypeScript', 'Python', 'Java', 'HTML/CSS'],
+  tools: ['React', 'Node.js', 'Docker', 'AWS/GCP'],
+  focus: {
+    current: 'Flowcase',
+    passionate: ['Open Source', 'Fullstack', 'Microcomputers']
+  },
+  funFact: 'I have a fully trained AI model named JR'
+}
+```
+
+## Open Source
+
+Check out my contributions at [github.com/caseybarajas-oss](https://github.com/caseybarajas-oss)
+
+## Get in Touch
+
+<div align="center">
+  <a href="https://caseybarajas.com">
+    <img src="https://img.shields.io/badge/Website-caseybarajas.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/caseybarajas-oss">
+    <img src="https://img.shields.io/badge/OSS-Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  *"If the compiler doesn't complain, I push it straight to main."*
+  
+</div>
