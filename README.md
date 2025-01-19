@@ -22,7 +22,7 @@
 
 ```typescript
 const casey = {
-  code: ['TypeScript', 'Python', 'Java', 'HTML/CSS'],
+  code: ['TypeScript', 'JavaScript', 'Python', 'Java', 'HTML/CSS'],
   tools: ['React', 'Node.js', 'Docker', 'AWS/GCP'],
   focus: {
     current: 'Flowcase',
