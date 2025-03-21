@@ -12,8 +12,6 @@
 <div align="center">
   <!-- GitHub Stats - using modern flat theme -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caseybarajas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <br>
