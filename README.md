@@ -11,7 +11,7 @@
 
 > **Fullstack Engineer** passionate about elegant code, containerized deployments, and building scalable solutions.
 
-Currently working on **Flowcase**, a next-generation workflow management platform. I'm deeply invested in open source and contribute regularly to various projects. When I'm not coding, you'll find me experimenting with microcomputers or training AI models.
+Currently working on **Flowcase**, a free and completely open-source alternative to Kasm Workspaces, enabling secure container streaming for your applications. 
 
   <br>
 
