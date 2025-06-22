@@ -84,7 +84,7 @@ const casey: Developer = {
   <a href="https://github.com/caseybarajas-oss">
     <img src="https://img.shields.io/badge/OSS-Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/caseybarajas">
+  <a href="https://twitter.com/caseybarajas33">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
