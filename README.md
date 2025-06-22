@@ -18,7 +18,6 @@ Currently working on **Flowcase**, a free and completely open-source alternative
   - 🌱 I'm currently learning how to make my own OS in **Assembly** and **C**
   - 💧 I'm working on Flowcase, a containerized streaming platform.
   - 💖 I love Flask
-  - 🤖 I'm a huge fan of LLMs
 
 ## 📊 GitHub Stats
 
