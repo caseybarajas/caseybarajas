@@ -11,8 +11,6 @@
 
 > **Fullstack Engineer** passionate about elegant code, containerized deployments, and building scalable solutions.
 
-Currently working on **Flowcase**, a free and completely open-source alternative to Kasm Workspaces, enabling secure container streaming for your applications. 
-
   <br>
 
   - 🌱 I'm currently learning how to make my own OS in **Assembly** and **C**
