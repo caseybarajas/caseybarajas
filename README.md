@@ -17,17 +17,6 @@
   - 💧 I'm working on Flowcase, a containerized streaming platform.
   - 💖 I love Flask
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caseybarajas&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseybarajas&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caseybarajas&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
 ## 💻 Tech Stack
 
 ```typescript
