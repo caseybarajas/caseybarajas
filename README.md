@@ -1,14 +1,5 @@
 # Hello, I'm Casey
 
-<div align="center">
-  <a href="https://caseybarajas.com">
-    <img src="https://img.shields.io/badge/Website-caseybarajas.com-blue?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/caseybarajas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
 ## About Me
 
 I'm a fullstack engineer focused on writing stuff that mostly works.
