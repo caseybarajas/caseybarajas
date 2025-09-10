@@ -1,98 +1,29 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World, I'm Casey!
-
-<div align="center">
-  
-  [![Personal Website](https://img.shields.io/badge/Website-caseybarajas.com-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://caseybarajas.com)
-  [![OSS Contributions](https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caseybarajas-oss)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caseybarajas)
-</div>
-
-## 🚀 About Me
-
-> **Fullstack Engineer** passionate about elegant code, containerized deployments, and building scalable solutions.
-
-  <br>
-
-  - 🌱 I'm currently learning how to make my own OS in **Assembly** and **C**
-  - 💧 I'm working on Flowcase, a containerized streaming platform.
-  - 💖 I love Flask
-
-## 💻 Tech Stack
-
-```typescript
-interface Developer {
-  languages: string[];
-  frontend: string[];
-  backend: string[];
-  devops: string[];
-  databases: string[];
-  cloud: string[];
-  current_focus: string;
-}
-
-const casey: Developer = {
-  languages: ['TypeScript', 'JavaScript', 'Python', 'Java', 'HTML/CSS'],
-  frontend: ['React', 'Next.js', 'Tailwind CSS', 'Material UI'],
-  backend: ['Node.js', 'Express', 'FastAPI', 'Spring Boot'],
-  devops: ['Docker', 'Kubernetes', 'GitHub Actions', 'CI/CD'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  cloud: ['AWS', 'GCP', 'Vercel', 'Netlify'],
-  current_focus: 'aceOS, a custom OS in Assembly and C'
-}
-```
-
-## 🏆 Projects & Contributions
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🌟 Featured Projects</h3>
-      <ul>
-        <li><b>Flowcase</b>: Workflow management platform with AI integration</li>
-        <li><b>aceOS</b>: Custom OS in Assembly and C</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔥 Open Source</h3>
-      <ul>
-        <li>Check out my contributions at <a href="https://github.com/caseybarajas-oss">github.com/caseybarajas-oss</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 📫 Connect With Me
+# Hello, I'm Casey
 
 <div align="center">
   <a href="https://caseybarajas.com">
-    <img src="https://img.shields.io/badge/Website-caseybarajas.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-caseybarajas.com-blue?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="https://github.com/caseybarajas-oss">
-    <img src="https://img.shields.io/badge/OSS-Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/caseybarajas33">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://linkedin.com/in/caseybarajas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
-<br>
+## About Me
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br>
-  
-  <!--START_SECTION:activity-->
-  <!-- This section will be automatically updated by a GitHub Action -->
-  <!--END_SECTION:activity-->
-  
-</details>
+I'm a fullstack engineer focused on writing stuff that mostly works.
 
----
+- Currently building a custom OS in Assembly and C
+- Working on Flowcase – a containerized streaming platform
+- Flask is still my go-to for quick backend work
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=caseybarajas&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  *"If the compiler doesn't complain, I push it straight to main."*
-  
-  <sub>💾 Last updated: May 2025</sub>
-</div>
+## Tech Stack
+
+```ts
+const casey = {
+  languages: ['TypeScript', 'Python', 'Java', 'JavaScript'],
+  frontend: ['React', 'Next.js', 'Tailwind'],
+  backend: ['Node.js', 'Express', 'FastAPI', 'Spring Boot'],
+  devops: ['Docker', 'Kubernetes', 'GitHub Actions'],
+  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+};
